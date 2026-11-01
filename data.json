@@ -1,0 +1,157 @@
+{
+  "checked": "2026-11-01T13:22–13:25 CET",
+  "basis": "Direct rendered retail listing, not reserved checkout price",
+  "fx": {
+    "source": "ECB",
+    "date": "2026-10-30",
+    "GBP_per_EUR": 0.8338,
+    "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+  },
+  "pricesIncludeLocalTax": true,
+  "AndorraIGI": 0.045,
+  "UKVAT": 0.2,
+  "products": [
+    {
+      "id": "britannia",
+      "name": "Britannia",
+      "mint": "The Royal Mint",
+      "purity": ".999",
+      "andorra": 55.44,
+      "uk": 47.72,
+      "dealer": "Gold Traders",
+      "url": "https://www.gold-traders.co.uk/2026-1oz-silver-britannia/",
+      "andorraUrl": "https://andorrametals.com/?p=britannia-ag",
+      "tiers": [
+        [
+          1,
+          47.72
+        ],
+        [
+          2,
+          47.69
+        ],
+        [
+          5,
+          47.64
+        ],
+        [
+          10,
+          47.59
+        ],
+        [
+          25,
+          47.54
+        ],
+        [
+          50,
+          47.48
+        ],
+        [
+          100,
+          47.41
+        ],
+        [
+          500,
+          47.36
+        ]
+      ],
+      "notes": "Gold Traders supplies individual coins in flips. The Royal Mint’s own offer includes a capsule."
+    },
+    {
+      "id": "maple",
+      "name": "Maple Leaf",
+      "mint": "Royal Canadian Mint",
+      "purity": ".9999",
+      "andorra": 55.5,
+      "uk": 59.52,
+      "dealer": "BullionByPost",
+      "url": "https://www.bullionbypost.co.uk/silver-coins/2026-silver-coins/2026-canadian-silver-maple-leaf-coin-1oz/",
+      "andorraUrl": "https://andorrametals.com/?p=maple-ag",
+      "tiers": [
+        [
+          1,
+          59.52
+        ],
+        [
+          2,
+          58.92
+        ],
+        [
+          5,
+          58.2
+        ],
+        [
+          10,
+          57.48
+        ],
+        [
+          20,
+          56.64
+        ],
+        [
+          50,
+          55.92
+        ],
+        [
+          100,
+          55.32
+        ],
+        [
+          250,
+          54.48
+        ],
+        [
+          500,
+          53.64
+        ],
+        [
+          1000,
+          52.8
+        ]
+      ],
+      "notes": "Same Canadian issue and fine silver content. Confirm packaging and condition with each seller."
+    },
+    {
+      "id": "noah",
+      "name": "Noah’s Ark",
+      "mint": "Armenian issue · German production",
+      "purity": ".999",
+      "andorra": 55.99,
+      "uk": 62.64,
+      "dealer": "GOLD.co.uk",
+      "url": "https://www.gold.co.uk/silver-coins/2026-silver-coins/silver-armenian-noahs-ark-1oz-coin-2026/",
+      "andorraUrl": "https://andorrametals.com/?p=noah-ag",
+      "tiers": [
+        [
+          1,
+          62.64
+        ],
+        [
+          2,
+          62.28
+        ],
+        [
+          5,
+          62.04
+        ],
+        [
+          10,
+          61.32
+        ],
+        [
+          20,
+          60.96
+        ],
+        [
+          40,
+          60.84
+        ],
+        [
+          100,
+          60.72
+        ]
+      ],
+      "notes": "Same Armenian 2026, 1 oz issue. Andorra lists Geiger; the UK shop identifies producer Leipziger Edelmetallverarbeitung."
+    }
+  ]
+}
